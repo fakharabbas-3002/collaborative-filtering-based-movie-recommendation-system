@@ -1,0 +1,5 @@
+######### Requirements for collaborative filtering based movie recommendation system #########
+pandas
+numpy
+scipy
+surprise
